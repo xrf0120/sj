@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/code/base/qyrv-sj123-base-common" />
+            <option value="$PROJECT_DIR$/code/base/qyrv-sj123-base-helper" />
+            <option value="$PROJECT_DIR$/code/qyrv-cosmic-debug" />
+            <option value="$PROJECT_DIR$/code/sjyun01/qyrv-sj123-sjyun01-app01" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
