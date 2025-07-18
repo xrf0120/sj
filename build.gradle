@@ -5,7 +5,7 @@
  * Author: liebin.zheng
  * Generate Date: 2025-07-18 10:45:19
  */
-
+//我要回家，我们死定了，我要退赛
 plugins {
 	id 'java'
 	//https://docs.gradle.org/current/userguide/java_library_plugin.html#java_library_plugin
